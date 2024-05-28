@@ -8,6 +8,7 @@ Their roles:
 Shellscripting will not work in windows based server and in linux based servers, if the os is different like CentOS, ubuntu
 
 To overcome above issues, configuration managements tools introduced like - Chef, Puppet, SaltStack and Ansible.
+
 Chef and Puppet need more learning curve. and Need to have agent in all system/servers that need to work with them.
 
 So finally Ansible came -> know the yamlfile(playbooks), it is agentless
