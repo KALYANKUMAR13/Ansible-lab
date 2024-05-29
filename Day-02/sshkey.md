@@ -21,3 +21,4 @@ these file will be in
 ```
 cd /home/<Username>/.ssh
 ```
+Copy the content of the public key and paste it to particular VM
