@@ -13,7 +13,15 @@ ansible-galaxy role install bsmeding.docker
 ```
 Then create a playbook that has this role. 
 
-When we want to publish, our role to the ansible-galaxy, we need to push to github and import to ansible-galaxy
+When we want to publish, our role to the ansible-galaxy, we need to push to github and import to ansible-galaxy.
+the token is generated in the collections section in ansible-galaxy
+
+Command to import to the ansible-galaxy
+```
+ansible-galaxy import <GitHub-UserName> <Name of the Directory> --token <token>
+ansible-galaxy import kalyankumar13 role-ansible --token 
+```
+
 
 
 
