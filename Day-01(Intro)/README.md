@@ -1,4 +1,4 @@
-Sytem Admin (Before DevOps) - their role is configuration management.
+System Admin (Before DevOps) - their role is configuration management.
 There are 4 linux based servers and 1 windows server in a company
 Their roles:
 1. Each of linux based servers/windows should be up to date or all should have a same supported version.
