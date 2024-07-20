@@ -1,6 +1,6 @@
 System Admin (Before DevOps) - their role is configuration management.
 There are 4 linux based servers and 1 windows server in a company
-Their roles:
+Their roles: (Issues Faced before)
 1. Each of linux based servers/windows should be up to date or all should have a same supported version.
 2. Packages and libraries such as openssh/wget/curl. along with the cent os, package version should be same and supported version.
 3. In case of Java  -> supported java version, webserver, application server. The 3 should be same version insalled in all systems.
