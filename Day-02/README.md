@@ -18,7 +18,7 @@ ssh-copy-id -f "-o IdentityFile <PATH TO PEM FILE>" ubuntu@<INSTANCE-PUBLIC-IP>
 For password,
 Go to particular file 
 ```
-sudo nano /etc/ssh/sshd_config.d/60-cloudimg-settings.conf
+sudo vim /etc/ssh/sshd_config.d/60-cloudimg-settings.conf
 ```
 Update PasswordAuthentication yes
 
