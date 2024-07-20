@@ -11,7 +11,7 @@ To overcome above issues, configuration managements tools introduced like - Chef
 
 Chef and Puppet need more learning curve. and Need to have agent in all system/servers that need to work with them.
 
-So finally Ansible came -> know the yamlfile(playbooks), it is agentless
+So finally Ansible came -> know the yamlfile(playbooks), it is **agentless**
 
 Control Node - The machine on which we install Ansible software is called Control node. From control node, we can manage all manage nodes
 Manage Nodes - The machines, in which we can install the software/package/libraries is called managenode. Manage node can be any Distribution
