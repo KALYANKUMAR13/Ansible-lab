@@ -9,6 +9,8 @@ ansible-playbook -i ../inventory.ini playbook.yaml
 ```
 I had the inventory.ini file in the parent directory of the current location.
 
+A playbook can have 1 or more plays. Each play should have following 3 components
+
 Each playbook has 3 things, like 
 - host
 - remote_user -> like ubuntu user, root user 
