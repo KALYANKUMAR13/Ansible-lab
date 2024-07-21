@@ -11,8 +11,6 @@ I had the inventory.ini file in the parent directory of the current location.
 
 Each playbook has 3 things, like 
 - host
-
--remote_user -> like ubuntu user, root user 
-
+- remote_user -> like ubuntu user, root user 
 - tasks -> to execute which tasks need to be done in the server
 
