@@ -16,7 +16,7 @@ tasks - things that we need to install
 
 meta - version, data of the role ,author
 
-handlers - Ansible task, when particular play aksed. In a play, we should be notified, so that particular task will run
+handlers - Ansible task, when particular play requested. In a play, we should be notified, so that particular task will run. Upon request on some task requests, this handler tasks will run
 
 files - Files that will be used in the play. Copy a particular file to all servers
 
