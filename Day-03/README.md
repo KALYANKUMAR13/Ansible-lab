@@ -14,3 +14,7 @@ Each playbook has 3 things, like
 - remote_user -> like ubuntu user, root user 
 - tasks -> to execute which tasks need to be done in the server
 
+Modules are the one, which will execute the task, There are different types of modules, like shell, 
+
+In the state, present means - install and absent means uninstall
+
