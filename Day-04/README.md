@@ -27,3 +27,5 @@ defaults - Variables - (default values)
 If the files are alrady there, Ansible will not create.
 
 Idempotency is a property of certain operations or API requests, which guarantees that performing the operation multiple times will yield the same result as if it was executed only once.
+
+If some changes in the play, it will execute, or else, it will run but no Changes
