@@ -8,3 +8,5 @@ Ansible is **Idempotency**
 
 
 The below code shutdown only the ubuntu (debian family)
+
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/4a370b6a-6205-48b9-8bb9-34e513329d85">
